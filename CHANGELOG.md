@@ -1,3 +1,15 @@
+## [1.1.0](https://github.com/bavatech/eslint-config/compare/v1.0.2...v1.1.0) (2022-08-22)
+
+
+### Features
+
+* init npmignore ([0fa91d3](https://github.com/bavatech/eslint-config/commit/0fa91d321b10fde0670ef3db48b76dde4b331ea3))
+
+
+### Bug Fixes
+
+* config CI ([5004a5e](https://github.com/bavatech/eslint-config/commit/5004a5e7df44011f9f4b92a69b21e3e2ab6593a0))
+
 ### [1.0.2](https://github.com/bavatech/eslint-config/compare/v1.0.1...v1.0.2) (2022-08-22)
 
 

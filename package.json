@@ -1,6 +1,6 @@
 {
   "name": "@bavatech/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "index.js",
   "author": "Julia Pinheiro",
   "license": "MIT",
