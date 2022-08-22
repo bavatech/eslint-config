@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@bavatech/eslint-config",
   "version": "1.0.1",
   "main": "index.js",
   "author": "Julia Pinheiro",
