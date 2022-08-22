@@ -1,8 +1,8 @@
 {
   "name": "eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "author": "Leandro Dias <ledias.17@gmail.com>",
+  "author": "Julia Pinheiro",
   "license": "MIT",
   "scripts": {
     "semantic-release": "semantic-release"
